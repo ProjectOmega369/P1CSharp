@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\C-Sharp-main\Classinventory\obj\Debug\Classinventory.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\C-Sharp-main\Classinventory\obj\Debug\Classinventory.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C-Sharp-main\Classinventory\bin\Debug\Classinventory.dll
+C:\Users\Usuario\Desktop\C-Sharp-main\Classinventory\bin\Debug\Classinventory.pdb
+C:\Users\Usuario\Desktop\C-Sharp-main\Classinventory\obj\Debug\Classinventory.dll
+C:\Users\Usuario\Desktop\C-Sharp-main\Classinventory\obj\Debug\Classinventory.pdb
